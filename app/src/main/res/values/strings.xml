@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="head">Tic-Tac-Toe</string>
+    <string name="grid">GRID YO</string>
+    <string name="start_message">Os turn...Tap to play</string>
+    <string name="creator">Github : Chandravo || Twitter : @chandravob</string>
+
+</resources>
